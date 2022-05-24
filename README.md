@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blaquekaktus
-- 👀 I’m interested in Java, C & Python
-- 💞️ I’m looking to collaborate on nothing at the moment, I'll update this as I learn more
+- 👀 I’m interested in Java, C, C++, Python, HTML, CSS, JavaScript & React
+- 💞️ I’m looking to collaborate on nothing at the moment, I'll update this as I learn more.
 - 📫 How to reach me ... shout out to the stars ... or @blaquekaktus on Insta might work better.
 
 <!---
